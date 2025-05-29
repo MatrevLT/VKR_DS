@@ -7,19 +7,19 @@
 ## Датасет
 Используется датасет **"AI4I 2020 Predictive Maintenance Dataset"**,
 содержащий 10 000 записей с 14 признаками.
-Подробное описание датасе можно найти в [документации](https://archive.ics.uci.edu dataset/601/predictive+maintenance+data)
+Подробное описание датасе можно найти в [документации](https://archive.ics.uci.edu/dataset/601/predictive+maintenance+dataset)
 ## Установка и запуск
 1. Клонируйте репозиторий:
 
- git clone <ссылка на репозиторий>
+ `git clone <ссылка на репозиторий>`
 
 2. Установите зависимости:
 
- pip install -r requirements.txt
+ `pip install -r requirements.txt`
 
 3. Запустите приложение:
 
- streamlit run app.py
+ `streamlit run app.py`
  
 ## Структура репозитория
 - `app.py`: Основной файл приложения.
